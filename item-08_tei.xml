@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Trascrizione di estratti dal "Diario dal carcere"</title>
+        <respStmt>
+          <resp>Trascrizione e marcatura TEI a cura di:</resp>
+          <name>Francesco Marrone</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Pubblicato come parte del progetto "Egon Schiele: L'Eros e Lo Scandalo".</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Estratto dal testo "Diario dalla carcere".</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      
+      <p>
+        Non lo nego: ho realizzato disegni e acquarelli che sono erotici. 
+        Ma sono pur sempre delle opere d’arte [...]
+        Non ci sono anche altri artisti che hanno dipinto quadri erotici? – <persName>Rops</persName>, ad esempio, 
+        ha fatto solo di queste cose. Ma un’artista non è mai stato messo in galera per questo. 
+        [...]
+        Potrei citare molti, molti nomi di artisti famosi, anche quello di <persName>Klimt</persName>; 
+        ma non voglio affatto giustificare in questo modo [...].
+      </p>
+      <p>
+        Tuttavia dichiaro che è falso che io abbia mostrato intenzionalmente a dei bambini simili 
+        disegni, che io abbia corrotto dei bambini. Questo è falso! [...] 
+        Hanno dimenticato quali terribili passioni si sono accese in loro e come ne sono stati 
+        tormentati quando erano bambini? – Io non l’ho dimenticato, ho sofferto terribilmente 
+        per queste cose.
+      </p>
+      
+      <p>
+        <placeName>Vienna</placeName>, <date when="1912-05-08">8 maggio 1912</date>
+      </p>
+      <p>
+        Sono stato in prigione per 24 giorni! – Ventiquattro giorni o cinquecentosettantasei ore! – Un’eternità! 
+        [...] Nel corso del dibattimento il <persName>giudice</persName>, nella sua toga, con grande solennità, 
+        ha bruciato sulla fiamma della candela un foglio di quelli che mi erano stati sequestrati, 
+        quello che era appeso nella mia stanza da letto! – 
+        Autodafé! Savonarola! Inquisizione! Medioevo! Castrazione, ipocrisia!
+      </p>
+
+    </body>
+  </text>
+</TEI>
